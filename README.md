@@ -1,9 +1,11 @@
-# SKU to MSKU Mapping & Visualization Tool
+#  Warehouse Management System (WMS)
 
-A Streamlit-based app for mapping SKUs to MSKUs, uploading to Baserow, and visualizing data with charts.
+This is a full-stack project built for assignment purposes, featuring:
 
-## Features
--  SKU → MSKU Mapping
--  Upload to Baserow
--  Chart Visualization
--  (Optional) AI Query Layer via OpenAI
+-  SKU to MSKU Mapping with validation
+-  Upload to Baserow (Relational DB)
+-  Chart Visualizations using Streamlit + Plotly
+-  Optional AI Layer using PandasAI
+-  File Upload & Download support
+
+Built with: Python, Streamlit, Pandas, Plotly, and Baserow integration.
