@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+my_secrets.py
+secrets.py
+*.csv
+*.xlsx
+.vscode/
+.idea/
+.DS_Store
